@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rumpel-mock:
+  - apiVersion: v2
+    appVersion: v0.4.2
+    created: "2022-04-22T14:46:37.515528+02:00"
+    description: A Helm chart for installing Rumpel mocks in your Kubernetes cluster
+    digest: 5d40705b83d6cb2a534beb0154bf89bfe7fb2c2c00d70f20826101112341f7fe
+    name: rumpel-mock
+    type: application
+    urls:
+    - rumpel-mock-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-22T14:46:37.514756+02:00"
